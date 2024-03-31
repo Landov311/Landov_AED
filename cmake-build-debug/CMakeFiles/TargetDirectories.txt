@@ -1,0 +1,4 @@
+C:/Practicas/cmake-build-debug/CMakeFiles/Practicas.dir
+C:/Practicas/cmake-build-debug/CMakeFiles/Camoete.dir
+C:/Practicas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Practicas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
